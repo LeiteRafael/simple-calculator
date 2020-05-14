@@ -1,0 +1,22 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "Exemplo de calculadora",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeiteRafael/simple-calculator.git"
+  },
+  "author": "Rafael Leite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeiteRafael/simple-calculator/issues"
+  },
+  "homepage": "https://github.com/LeiteRafael/simple-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

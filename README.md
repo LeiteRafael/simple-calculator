@@ -2,7 +2,7 @@
 
 Calculadora simples como base para estudar:
 
- - Deploy (Heroku)
- - CI
- - CD
- - Jest
+- Deploy (Heroku)
+- CI
+- CD
+- Jest
