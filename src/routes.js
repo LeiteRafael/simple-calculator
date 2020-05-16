@@ -5,7 +5,7 @@ const routes = Router();
 
 routes.post('/calc', CalcController.calc);
 routes.get('/index', function (req, res) {
-    res.json('Hello World');
+    res.json('Te amo meu amor ');
   });
   
 module.exports = routes;
